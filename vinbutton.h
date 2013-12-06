@@ -10,7 +10,8 @@ public:
     explicit vinButton(QWidget *parent = 0);
 
 signals:
-    void xclicked(const QString &);
+//    void xclicked(const QString &);
+//    not needed in this release
 
 public slots:
 
